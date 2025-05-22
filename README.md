@@ -141,3 +141,4 @@ Cache responses to reduce API calls
 Support weather forecasts (not just current data)
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/b7866f86-b128-4113-966e-757392c4ff5d)
